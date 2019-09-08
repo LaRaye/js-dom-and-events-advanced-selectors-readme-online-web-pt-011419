@@ -9,3 +9,8 @@ function lastImageSelector() {
   const image = $('div img:last');
   return image;
 }
+
+function () {
+  const ninjaBaby = $('#baby-ninja');
+  return ninjaBaby
+}
