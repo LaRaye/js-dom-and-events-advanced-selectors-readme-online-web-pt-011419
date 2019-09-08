@@ -19,3 +19,7 @@ function divSelector() {
   const divs = $('.pics');
   return divs;
 }
+
+function firstListItem() {
+  
+}
